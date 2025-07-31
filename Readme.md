@@ -6,9 +6,9 @@ Hi, I'm Joaquin Calligaro 👋<br>I'm a junior frontend developer ready to learn
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaquin.calligaro) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaquin.caligaro) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquincalligaro) 
-<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joacocalligaro) -->
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@joaquincalligaro3723) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaquincalligaro@gmail.com)
+<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joacocalligaro) -->
 
 
 
