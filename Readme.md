@@ -16,8 +16,9 @@ Hi, I'm Joaquin Calligaro 👋<br>I'm a junior frontend developer ready to learn
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinCalligaro&theme=react&show_icons=true&hide_border=true&layout=compact" alt="JoaquinCalligaro's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinCalligaro&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="JoaquinCalligaro's Top Languages" />
 </p>
+
 
 
 
