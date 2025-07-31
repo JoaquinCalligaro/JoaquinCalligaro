@@ -1,4 +1,4 @@
-# 💫 About Me
+ # 💫 About Me
 Hi, I'm Joaquin Calligaro 👋<br>I'm a junior frontend developer ready to learn and improve. I focus on building useful, clean projects and always work to write better code.
 
 
@@ -20,7 +20,10 @@ Hi, I'm Joaquin Calligaro 👋<br>I'm a junior frontend developer ready to learn
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JoaquinCalligaro&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JoaquinCalligaro)
+
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
