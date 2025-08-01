@@ -1,5 +1,5 @@
  # 💫 About Me
-<br>I'm a junior frontend developer ready to learn and improve. I focus on building useful, clean projects and always work to write better code.
+I'm a junior frontend developer ready to learn and improve. I focus on building useful, clean projects and always work to write better code.
 
 
 ## 🌐 Socials
